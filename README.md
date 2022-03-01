@@ -2,22 +2,18 @@
 
 ►SíGUEME AQUí:
 
-✅YouTube:
-https://www.youtube.com/CodingTube
+✅YouTube: https://www.youtube.com/CodingTube
 
-✅Twitter:
-https://twitter.com/CodingTube
+✅TikTok: https://www.tiktok.com/@codingtube
 
-✅WEB:
-https://coding-tube.com/
+✅WEB: https://coding-tube.com/
+
+✅Twitter: https://twitter.com/CodingTube
 
 ►CURSOS:
 
-📕HTML5: 
-https://bit.ly/CodingHTML01
+📕HTML5: https://bit.ly/CodingHTML01
 
-📘CSS3: 
-https://bit.ly/CodingCSS01
+📘CSS3: https://bit.ly/CodingCSS01
 
-📙Javascript: 
-http://bit.ly/CodingJS01
+📙Javascript: http://bit.ly/CodingJS01
