@@ -3,11 +3,17 @@
 ►SíGUEME AQUí:
 
 ✅YouTube: https://www.youtube.com/CodingTube
+
 ✅TikTok: https://www.tiktok.com/@codingtube
+
 ✅WEB: https://coding-tube.com/
+
 ✅Twitter: https://twitter.com/CodingTube
+
 ✅Discord: https://discord.gg/tasEBrh8Zw
+
 ✅Twitch: https://www.twitch.tv/codingtube
+
 ✅Facebook: https://www.facebook.com/groups/codingtubers
 
 ►CURSOS:
