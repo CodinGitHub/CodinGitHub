@@ -1,5 +1,6 @@
 👋 Bienvenidos a CodingTube, un canal dedicado a los apasionados por el código. Si te gusta programar y quieres aprender más acerca de este fascinante mundo, estás en el lugar indicado.
 
+
 ►SíGUEME AQUí:
 
 ✅YouTube: https://www.youtube.com/CodingTube
@@ -16,6 +17,7 @@
 
 ✅Facebook: https://www.facebook.com/groups/codingtubers
 
+
 ►CURSOS:
 
 📕HTML5: https://bit.ly/CodingHTML01
@@ -25,11 +27,13 @@
 📙Javascript: http://bit.ly/CodingJS01
 
 
+
 ►LISTAS DE REPRODUCCIÓN RECOMENDADAS:
 
 📒Etiquetas HTML: https://bit.ly/HTMLShorts
 
 📗Todos los retos frontend: https://bit.ly/CodingRetos
+
 
 ►CLASES PARTICULARES:
 
