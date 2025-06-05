@@ -38,3 +38,5 @@
 ►CLASES PARTICULARES:
 
 👨‍🏫Reserva una clase gratuita de 20 minutos aquí: https://www.classgap.com/me/david-577169
+
+<!-- GitAds-Verify: 6VZHXEPCQY13ZOZXZA5DFNHI5EL2TXWL -->
